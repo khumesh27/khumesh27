@@ -13,8 +13,9 @@ Email Me 👉 ✉️ **khumeshk218@gmail.com** For Collaboration/Project or Anyt
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khobragadekhumesh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khumeshkhobragade) 
-[![LeetCode]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khumeshkhobragade](https://leetcode.com/u/khumeshk27/)) 
-[![GeekforGeek]([[https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khumeshkhobragade](https://leetcode.com/u/khumeshk27/)](https://www.geeksforgeeks.org/profile/khumesh_khobragade)) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=white)](https://leetcode.com/u/khumeshk27/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/khumesh_khobragade)
+
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khumeshk218@gmail.com) 
 
 # 💻 Tech Stack:
