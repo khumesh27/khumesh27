@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Khumesh Shyamrao Khobragade
+# 💫 Hi 👋, I'm Khumesh 
 **A passionate Software Developer || MERN Stack Developer from India**
 
 Email Me 👉 ✉️ **khumeshk218@gmail.com** For Collaboration/Project or Anything Else. 😊😊
