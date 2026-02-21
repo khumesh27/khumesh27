@@ -16,8 +16,7 @@ Open for Java / Backend Developer Opportunities
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khumeshkhobragade)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=white)](https://leetcode.com/u/khumeshk27/)  
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/khumesh_khobragade)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=white)](https://leetcode.com/u/khumeshk27/)  [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/khumesh_khobragade)
 
 ---
 
