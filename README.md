@@ -7,7 +7,7 @@ Open for Java / Backend Developer Opportunities
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 B.E. in Computer Engineering (2025 Graduate)
+- 🎓 B.Tech in Computer Engineering (2025 Graduate)
 - 💼 Software Developer Intern at Infosys  
 - 💻 Strong in Java, Data Structures & Algorithms  
 - 🌐 Experience with MERN Stack Development  
